@@ -2,7 +2,7 @@
 
 Tela de seleção de personagem em jogos de estilo de luta com tema de heróis da Marvel.
 
-| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/gabrielevangelista094   |
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/gabrielevangelista094   |
 | -------------  | --- |
 | :sparkles: Nome        | **Tela de seleação de personagens Marvel**
 | :label: Tecnologias | html, css, JavaScript (tecnologias utilizadas)
