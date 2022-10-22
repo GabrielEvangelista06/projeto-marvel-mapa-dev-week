@@ -8,7 +8,7 @@ Tela de seleção de personagem em jogos de estilo de luta com tema de heróis d
 | :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)                 |
 | :rocket: URL          | https://gabrielevangelista06.github.io/projeto-marvel-mapa-dev-week/ |
 
-![](https://i.ibb.co/DtDZjyq/Captura-de-tela-2022-10-22-002727.png#vitrinedev)
+![](https://i.ibb.co/MD51cnF/Captura-de-tela-2022-10-22-000005.png#vitrinedev)
 
 ## Detalhes do projeto
 
